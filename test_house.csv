@@ -1,0 +1,6 @@
+house_id,city,MedInc,HouseAge,AveRooms,AveBedrms,Population,AveOccup,Latitude,Longitude
+CA-001,San Francisco,8.3252,41,6.984,1.024,322,2.556,37.88,-122.23
+CA-002,Los Angeles,8.3014,21,6.238,0.972,2401,2.11,34.05,-118.24
+CA-003,Sacramento,3.8462,52,6.282,1.074,496,2.248,38.58,-121.49
+CA-004,San Diego,5.2381,17,5.204,1.048,1200,3.0,32.72,-117.16
+CA-005,Fresno,2.945,30,5.01,1.03,1450,3.2,36.74,-119.79
